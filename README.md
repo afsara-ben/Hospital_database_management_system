@@ -13,4 +13,28 @@ A doctor can prescribe drugs and investigation in the prescription. The investig
 The accountant prepares the payments for the patient and the patient pays the bill. The bill contains the total cost a patient has to bear and has a PK, bill_ID and FK p_ID. 
 
 
-![alt text](<path_relative_to_current_github_location/image.jpg>)
+![Overview of entities](https://github.com/afsara-ben/Hospital_database_management_system/blob/master/images/main_entities.png)
+
+![accountants_payments_bills](https://github.com/afsara-ben/Hospital_database_management_system/blob/master/images/accountants_payments_bills.png)
+
+![admission_doctor_appointment](https://github.com/afsara-ben/Hospital_database_management_system/blob/master/images/admission_doctor_appointment.png)
+
+![investigations_pathologists](https://github.com/afsara-ben/Hospital_database_management_system/blob/master/images/investigations_pathologists.png)
+
+![investigations_prescriptions_drugs](https://github.com/afsara-ben/Hospital_database_management_system/blob/master/images/investigations_prescriptions_drugs.png)
+
+![jobs_employees](https://github.com/afsara-ben/Hospital_database_management_system/blob/master/images/jobs_employee_entity.png)
+
+![nurses_rooms](https://github.com/afsara-ben/Hospital_database_management_system/blob/master/images/nurses_rooms.png)
+
+![patients_appointment_admissions](https://github.com/afsara-ben/Hospital_database_management_system/blob/master/images/patients_appointment_admissions.png)
+
+![patients_drugs](https://github.com/afsara-ben/Hospital_database_management_system/blob/master/images/patients_drugs.png)
+
+![pharma-company_drugs](https://github.com/afsara-ben/Hospital_database_management_system/blob/master/images/pharma-company_drugs.png)
+
+![rooms_departments](https://github.com/afsara-ben/Hospital_database_management_system/blob/master/images/rooms_departments.png)
+
+![rooms_seat](https://github.com/afsara-ben/Hospital_database_management_system/blob/master/images/rooms_seat.png)
+
+![seats_admissions](https://github.com/afsara-ben/Hospital_database_management_system/blob/master/images/seats_admissions.png)
